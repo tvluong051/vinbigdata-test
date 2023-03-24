@@ -1,0 +1,9 @@
+Flask==2.2.2
+flask-restful>=0.3.9
+Flask-SQLAlchemy==3.0.3
+Flask-Migrate==4.0.4
+psycopg2-binary
+marshmallow
+flask-apispec
+pytest
+pytest-flask
